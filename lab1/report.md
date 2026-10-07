@@ -1,10 +1,10 @@
-# Laboratory Work №1
+# Lab #1
 
 ## Register with Cloud Providers: AWS, AWS Educate, Microsoft Azure
 
 ### Objective
 
-The objective of this laboratory work is to register with cloud providers and prepare accounts for future practical works.
+The objective of this lab work is to register with cloud providers and prepare accounts for future practical works.
 
 ---
 
@@ -64,8 +64,8 @@ https://github.com/OksanaShevchenko/Labs
 
 ## Conclusion
 
-During this laboratory work, accounts for AWS, AWS Educate, Microsoft Azure, and GitHub were prepared for future cloud computing laboratory works.
+During this lab work, accounts for AWS, AWS Educate, Microsoft Azure, and GitHub were prepared for future works.
 
 Multi-factor authentication was enabled for the AWS root account, and a separate IAM administrator user was created to improve account security.
 
-The AWS Educate and Microsoft Azure platforms were successfully accessed, and the laboratory report was uploaded to GitHub.
+The AWS Educate and Microsoft Azure platforms were successfully accessed, and the report was uploaded to GitHub.
